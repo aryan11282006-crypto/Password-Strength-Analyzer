@@ -21,4 +21,3 @@ https://codepen.io/editor/clkqmzjs-the-encoder/pen/019ed452-8239-79fa-a886-85408
 ## 👨‍💻 Developed By
 Aryan 
 
-This project is created for learning and portfolio purposes.
